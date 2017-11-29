@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">qz0926</string>
+    <string name="title_activity_route_map">Map</string>
+    <string name="title_activity_route_view">Map</string>
+</resources>
